@@ -13,7 +13,7 @@ The problem was that all thses thing happening is verbal and these was mo proof 
 
 # Data Discovery :
 
-** Project Planning using AIMS Grid  -
+** Project Planning using AIMS Grid ** -
 It is a project management tool which consists of four components-:
 
                   - Purpose - (What to do exactly)
