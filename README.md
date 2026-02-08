@@ -110,15 +110,17 @@ Target Diff = [Profit Margin %]-'Profit Target1'[Profit Target Value]
 Data visualization for the data analysis (DAX) was done in Microsoft Power BI Desktop:
 
 Shows visualizations from Sales insights :
-Key Insight
+
+
+                                                      Key Insight Dashboard
 
 ![Key Insights](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Key%20Analysis%20Dashboard.png)
 
-Profit Analysis
+                                                       Profit Analysis Dashboard
 ![Profit Analysis](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Profit%20Analysis.png)
 
-Performance insight Dashboard
-![image](<img width="1134" height="664" alt="Performance Insight Dashboard" src="https://github.com/user-attachments/assets/8a28ec94-e5a3-4bbb-b66c-209a9a9f837f" />)
+                                                      Performance insight Dashboard
+![image](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Performance%20Insight%20Dashboard.png)
 
 ## Tools, Software and Libraries## :
 1.MySQL
