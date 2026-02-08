@@ -1,6 +1,6 @@
 # Project : Sales Insights of Data Analysis-AtliQ Hardware
 
-![Image](![Sales template](https://github.com/user-attachments/assets/e4191acd-14f5-4249-8446-a9ff78382cfd)
+![Sales template](https://github.com/user-attachments/assets/e4191acd-14f5-4249-8446-a9ff78382cfd)
 
 ## Problem Statement :
 In this project performed India based AtliQ hardware company sales insights - A Data Analysis project.
