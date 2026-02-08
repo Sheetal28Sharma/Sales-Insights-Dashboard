@@ -115,14 +115,14 @@ Data visualization for the data analysis (DAX) was done in Microsoft Power BI De
 Shows visualizations from Sales insights :
 
 
-                                             #### Key Insight Dashboard
+                                 Key Insight Dashboard
 
 ![Key Insights](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Key%20Analysis%20Dashboard.png)
 
-                                             #### Profit Analysis Dashboard
+                                Profit Analysis Dashboard
 ![Profit Analysis](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Profit%20Analysis.png)
 
-                                             ** Performance insight Dashboard **
+                                Performance insight Dashboard 
 ![image](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Performance%20Insight%20Dashboard.png)
 
 ## Tools, Software and Libraries :
