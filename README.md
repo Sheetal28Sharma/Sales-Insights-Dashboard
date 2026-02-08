@@ -24,7 +24,7 @@ It is a project management tool which consists of four components-:
 ** AIMS Grid  - **
 ** 1.  Purpose  :-** To unlock sales insights that are not visible before for the sales them for decision support and automate them to reduced manual time spent in data gathering.
 
-2. ** Stakeholders :- **
+2. ### Stakeholders :- 
 
                 - Sales Director
                 - Marketing Team
@@ -32,9 +32,9 @@ It is a project management tool which consists of four components-:
                 - Data and Analytics Team
                 - IT
    
-4. ** End result ** :- An automated dashboard providing quick and latest sights in order to support Data driven decision making.
+4. ### End result  :- An automated dashboard providing quick and latest sights in order to support Data driven decision making.
 
-5. ** Success Criteria ** :-
+5. ### Success Criteria :-
 
              - Dahboard uncovering sales order insights with latest data available
              - Sales team able to take better decisions and prove 10% cost saving of total spend.
@@ -50,7 +50,8 @@ Step 2: Loading data into the Power BI deskstop. This step load all the tables a
 
 In that model view looking up for model which form the star schema.
 
-Screenshot (4)
+![Model view](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Snapshort%20of%20Model%20View.png)
+
 
 Setp 3: Transform data with the help of Power Query
 
