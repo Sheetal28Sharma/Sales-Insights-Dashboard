@@ -1,8 +1,8 @@
 # Project : Sales Insights of Data Analysis-AtliQ Hardware
 
+![A](![Sales template](https://github.com/user-attachments/assets/e4191acd-14f5-4249-8446-a9ff78382cfd)
 
-
- ## Problem Statement :
+## Problem Statement :
 In this project performed India based AtliQ hardware company sales insights - A Data Analysis project.
 
 AtliQ Hardware is a company which supplies computer hardware and peripherals to many of clients such as surge stores, Nomad stores etc. across India. AtliQ Hardware head office is situated in Delhi, India and they have many regional office through out the India.
@@ -10,7 +10,6 @@ AtliQ Hardware is a company which supplies computer hardware and peripherals to 
 Sales director for this company is facing a lot of challenges is this the market is growing dynamically and sales director is facing issue in terms of tracking the sales in this dynamical growth market and he is having issues with growth of this bussiness, as overall sales was declining. He has regional manager for North India, South and Central India. Whenever he wants to get insights of thses region he would call these people and on the phone regional manager give some insights to him that this was the sales last quarter and we are going to grow by this much in the next quarter.
 
 The problem was that all thses thing happening is verbal and these was mo proof with facts that how his business is affected and which made him frustraed as he can see that overall sales is declining but when he can ask regional manager, he is not getting complete picture of this bussiness and when he and this AtliQ hardware is big business. so to see insights clearly. and he will get proper insights anbd can take data driven decision to increase sales of hos company. All he wants is a simple data visualization tool which he can access on daily basis. By using such tools and technology one can make data driven decisiions which helps to increase the sales of the company. So, In this projects we will help a company make its own sales related dashboard using power BI.
-![A](![Sales template](https://github.com/user-attachments/assets/e4191acd-14f5-4249-8446-a9ff78382cfd)
 
 
 # Data Discovery :
@@ -26,7 +25,7 @@ It is a project management tool which consists of four components -
 ### AIMS Grid - 
 ### 1.  Purpose  :- To unlock sales insights that are not visible before for the sales them for decision support and automate them to reduced manual time spent in data gathering.
 
-2. ### Stakeholders :- 
+### 2.  Stakeholders :- 
 
                 - Sales Director
                 - Marketing Team
@@ -34,9 +33,9 @@ It is a project management tool which consists of four components -
                 - Data and Analytics Team
                 - IT
    
-4. ### End result  :- An automated dashboard providing quick and latest sights in order to support Data driven decision making.
+### 4. End result  :- An automated dashboard providing quick and latest sights in order to support Data driven decision making.
 
-5. ### Success Criteria :-
+### 5.  Success Criteria :-
 
              - Dahboard uncovering sales order insights with latest data available
              - Sales team able to take better decisions and prove 10% cost saving of total spend.
@@ -44,6 +43,7 @@ It is a project management tool which consists of four components -
 
 
 # Data Cleaning and ETL (Extract, Transform, Load) :
+
 In this process, we are work on data cleaning and ETL.
 
 Step 1: Connect the MySQL database with the PowerBI desktop.
@@ -89,7 +89,9 @@ And then dataset was cleaned and transformed, it was ready to the data modeled.
 The sales insights data tables as show below:
 Sanapshot
 ![Data Modeling](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Snapshot%20od%20Data%20Modeling.png)
-Data Analysis (DAX):
+
+
+# Data Analysis (DAX):
 Measures used in all visualization are:
 
 Key Measures:
@@ -106,23 +108,25 @@ Profit Target:
 Profit Target1 = GENERATESERIES(-0.05, 0.15, 0.01)
 Profit Target Value = SELECTEDVALUE('Profit Target1'[Profit Target])
 Target Diff = [Profit Margin %]-'Profit Target1'[Profit Target Value]
+
 # Build Dashboard Or a Report:
 Data visualization for the data analysis (DAX) was done in Microsoft Power BI Desktop:
 
 Shows visualizations from Sales insights :
 
 
-                                                      Key Insight Dashboard
+                                             #### Key Insight Dashboard
 
 ![Key Insights](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Key%20Analysis%20Dashboard.png)
 
-                                                       Profit Analysis Dashboard
+                                             #### Profit Analysis Dashboard
 ![Profit Analysis](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Profit%20Analysis.png)
 
-                                                      Performance insight Dashboard
+                                             #### Performance insight Dashboard
 ![image](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Performance%20Insight%20Dashboard.png)
 
-## Tools, Software and Libraries## :
+## Tools, Software and Libraries :
+
 1.MySQL
 
 2.Microsoft Power BI
