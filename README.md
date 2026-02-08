@@ -113,10 +113,14 @@ Data visualization for the data analysis (DAX) was done in Microsoft Power BI De
 Shows visualizations from Sales insights :
 
 Key Insights
-Sales Insights data analysis-AtliQ_page-0001
+![image](<img width="1258" height="648" alt="Key Analysis Dashboard" src="https://github.com/user-attachments/assets/4e820b8a-c709-45f1-aafd-57ae669796bf" />)
+
 Profit Analysis
-Sales Insights data analysis-AtliQ_page-0002
-Profit Analysis
+![Profit Analysis](<img width="1305" height="659" alt="Profit Analysis" src="https://github.com/user-attachments/assets/746aee03-9632-495c-91e6-72eb9e1f8125" />)
+
+Performance insight Dashboard
+![image](<img width="1134" height="664" alt="Performance Insight Dashboard" src="https://github.com/user-attachments/assets/8a28ec94-e5a3-4bbb-b66c-209a9a9f837f" />)
+
 Sales Insights data analysis-AtliQ_page-0003
 ##Tools, Software and Libraries## :
 1.MySQL
