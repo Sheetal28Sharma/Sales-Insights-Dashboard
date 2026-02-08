@@ -87,8 +87,7 @@ we can see that it is duplicate and for analysis its better to delete anyone of 
 And then dataset was cleaned and transformed, it was ready to the data modeled.
 
 The sales insights data tables as show below:
-
-Screenshot (14)
+Sanapshot
 ![Data Modeling](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Snapshot%20od%20Data%20Modeling.png)
 Data Analysis (DAX):
 Measures used in all visualization are:
@@ -121,8 +120,7 @@ Profit Analysis
 Performance insight Dashboard
 ![image](<img width="1134" height="664" alt="Performance Insight Dashboard" src="https://github.com/user-attachments/assets/8a28ec94-e5a3-4bbb-b66c-209a9a9f837f" />)
 
-Sales Insights data analysis-AtliQ_page-0003
-##Tools, Software and Libraries## :
+## Tools, Software and Libraries## :
 1.MySQL
 
 2.Microsoft Power BI
