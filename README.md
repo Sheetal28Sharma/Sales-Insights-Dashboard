@@ -13,16 +13,16 @@ The problem was that all thses thing happening is verbal and these was mo proof 
 
 # Data Discovery :
 
-** Project Planning using AIMS Grid ** -
-It is a project management tool which consists of four components-:
+### Project Planning using AIMS Grid -
+It is a project management tool which consists of four components -
 
-                  - Purpose - (What to do exactly)
-                  - Stackholder - (Who will be involved)
-                  - End result - (What do you want to achieve)
-                  - Success Criteria - (Cost optimization and time save)
+         * Purpose - (What to do exactly)
+         * Stackholder - (Who will be involved)
+         * End result - (What do you want to achieve)
+         * Success Criteria - (Cost optimization and time save)
   
-** AIMS Grid  - **
-** 1.  Purpose  :-** To unlock sales insights that are not visible before for the sales them for decision support and automate them to reduced manual time spent in data gathering.
+### AIMS Grid - 
+### 1.  Purpose  :- To unlock sales insights that are not visible before for the sales them for decision support and automate them to reduced manual time spent in data gathering.
 
 2. ### Stakeholders :- 
 
@@ -41,7 +41,7 @@ It is a project management tool which consists of four components-:
              - Sales analysis stop data gathering manually in order to save 20% business time andreinvest it value added activity.
 
 
-**Data Cleaning and ETL (Extract, Transform, Load)**:
+# Data Cleaning and ETL (Extract, Transform, Load) :
 In this process, we are work on data cleaning and ETL.
 
 Step 1: Connect the MySQL database with the PowerBI desktop.
@@ -81,7 +81,7 @@ In MySQL Workbench find that there are duplicates of USD and INR
  `SELECT * from sales.transactions where sales.transactions.currency='USD\r' or sales.transactions.currency='USD';`
 we can see that it is duplicate and for analysis its better to delete anyone of them so lets delete USD and keep USD/r. finally we will keep data with INR/r and USD/r-
 
-Data Modeling:
+# Data Modeling:
 And then dataset was cleaned and transformed, it was ready to the data modeled.
 
 The sales insights data tables as show below:
