@@ -122,7 +122,7 @@ Shows visualizations from Sales insights :
                                              #### Profit Analysis Dashboard
 ![Profit Analysis](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Profit%20Analysis.png)
 
-                                             #### Performance insight Dashboard
+                                             ** Performance insight Dashboard **
 ![image](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Performance%20Insight%20Dashboard.png)
 
 ## Tools, Software and Libraries :
