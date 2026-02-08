@@ -87,7 +87,7 @@ And then dataset was cleaned and transformed, it was ready to the data modeled.
 The sales insights data tables as show below:
 
 Screenshot (14)
-
+![Data Modeling](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Snapshot%20od%20Data%20Modeling.png)
 Data Analysis (DAX):
 Measures used in all visualization are:
 
