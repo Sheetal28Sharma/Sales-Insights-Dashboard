@@ -40,9 +40,9 @@ An automated dashboard providing quick and latest sights in order to support Dat
 
  **5.  Success Criteria** :-
 
-   - Dahboard uncovering sales order insights with latest data available
-   - Sales team able to take better decisions and prove 10% cost saving of total spend.
-   - Sales analysis stop data gathering manually in order to save 20% business time andreinvest it value added activity.
+   * Dahboard uncovering sales order insights with latest data available
+   * Sales team able to take better decisions and prove 10% cost saving of total spend.
+   * Sales analysis stop data gathering manually in order to save 20% business time andreinvest it value added activity.
 
 
 # Data Cleaning and ETL (Extract, Transform, Load) :
@@ -119,11 +119,11 @@ Data visualization for the data analysis (DAX) was done in Microsoft Power BI De
 Shows visualizations from Sales insights :
 
 
-   <p align="center">Key Insight Dashboard</strong></p>
+   <h2 align="center">Key Insight Dashboard<h2>
    
 ![Key Insights](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Key%20Analysis%20Dashboard.png)
 
-   <p align="center">**Profit Analysis Dashboard**</strong></p>
+   <h2 align="center">Profit Analysis Dashboard<h2>
 
 ![Profit Analysis](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Profit%20Analysis.png)
 
