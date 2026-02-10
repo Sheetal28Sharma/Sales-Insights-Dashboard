@@ -21,8 +21,10 @@ The problem was that all thses thing happening is verbal and these was mo proof 
     * End result - (What do you want to achieve)
     * Success Criteria - (Cost optimization and time save)
   
-- **AIMS Grid** - 
-  **1.  Purpose**  :- 
+- **AIMS Grid** -
+
+
+ **1.  Purpose**  :- 
 To unlock sales insights that are not visible before for the sales them for decision support and automate them to reduced manual time spent in data gathering.
 
  **2.  Stakeholders** :- 
@@ -117,10 +119,10 @@ Data visualization for the data analysis (DAX) was done in Microsoft Power BI De
 Shows visualizations from Sales insights :
 
 
- **Key Insight Dashboard**
+   **Key Insight Dashboard**
 ![Key Insights](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Key%20Analysis%20Dashboard.png)
 
- **Profit Analysis Dashboard**
+   **Profit Analysis Dashboard**
 ![Profit Analysis](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Profit%20Analysis.png)
 
    **Performance insight Dashboard** 
