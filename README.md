@@ -119,7 +119,7 @@ Data visualization for the data analysis (DAX) was done in Microsoft Power BI De
 Shows visualizations from Sales insights :
 
 
-   <center>**Key Insight Dashboard**</center>
+   <p align="center">Key Insight Dashboard</strong></p>
    
 ![Key Insights](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Key%20Analysis%20Dashboard.png)
 
