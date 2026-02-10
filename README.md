@@ -14,13 +14,13 @@ The problem was that all thses thing happening is verbal and these was mo proof 
 
 # Data Discovery :
 
-### Project Planning using AIMS Grid -
+### - Project Planning using AIMS Grid :
 It is a project management tool which consists of four components -
 
-         * Purpose - (What to do exactly)
-         * Stackholder - (Who will be involved)
-         * End result - (What do you want to achieve)
-         * Success Criteria - (Cost optimization and time save)
+         - Purpose - (What to do exactly)
+         - Stackholder - (Who will be involved)
+         - End result - (What do you want to achieve)
+         - Success Criteria - (Cost optimization and time save)
   
 ### AIMS Grid - 
 ### 1.  Purpose  :- 
@@ -89,6 +89,7 @@ we can see that it is duplicate and for analysis its better to delete anyone of 
 And then dataset was cleaned and transformed, it was ready to the data modeled.
 
 The sales insights data tables as show below:
+
 Sanapshot
 ![Data Modeling](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Snapshot%20od%20Data%20Modeling.png)
 
@@ -117,7 +118,7 @@ Data visualization for the data analysis (DAX) was done in Microsoft Power BI De
 Shows visualizations from Sales insights :
 
 
- ** Key Insight Dashboard **
+ Key Insight Dashboard 
 
 ![Key Insights](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Key%20Analysis%20Dashboard.png)
 
