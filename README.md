@@ -14,7 +14,7 @@ The problem was that all thses thing happening is verbal and these was mo proof 
 
 # Data Discovery :
 
- - **Project Planning using AIMS Grid** :- It is a project management tool which consists of four components 
+ - **Project Planning using AIMS Grid** :- It is a project management tool which consists of four components -
 
     * Purpose - (What to do exactly)
     * Stackholder - (Who will be involved)
@@ -27,20 +27,20 @@ To unlock sales insights that are not visible before for the sales them for deci
 
 ### 2.  Stakeholders :- 
 
-                - Sales Director
-                - Marketing Team
-                - Customer Service Team
-                - Data and Analytics Team
-                - IT
+   - Sales Director
+   - Marketing Team
+   - Customer Service Team
+   - Data and Analytics Team
+   - IT
    
 ### 4. End result  :-
 An automated dashboard providing quick and latest sights in order to support Data driven decision making.
 
 ### 5.  Success Criteria :-
 
-             - Dahboard uncovering sales order insights with latest data available
-             - Sales team able to take better decisions and prove 10% cost saving of total spend.
-             - Sales analysis stop data gathering manually in order to save 20% business time andreinvest it value added activity.
+   - Dahboard uncovering sales order insights with latest data available
+   - Sales team able to take better decisions and prove 10% cost saving of total spend.
+   - Sales analysis stop data gathering manually in order to save 20% business time andreinvest it value added activity.
 
 
 # Data Cleaning and ETL (Extract, Transform, Load) :
