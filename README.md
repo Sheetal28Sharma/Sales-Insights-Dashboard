@@ -123,10 +123,12 @@ Shows visualizations from Sales insights :
    
 ![Key Insights](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Key%20Analysis%20Dashboard.png)
 
-   **Profit Analysis Dashboard**
+   <p align="center">Profit Analysis Dashboard</strong></p>
+
 ![Profit Analysis](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Profit%20Analysis.png)
 
-   **Performance insight Dashboard** 
+   <p align="center">Performance insight Dashboard</strong></p>
+
 ![image](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Performance%20Insight%20Dashboard.png)
 
 ## Tools, Software and Libraries :
