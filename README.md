@@ -29,11 +29,11 @@ To unlock sales insights that are not visible before for the sales them for deci
 
  **2.  Stakeholders** :- 
 
-   - Sales Director
-   - Marketing Team
-   - Customer Service Team
-   - Data and Analytics Team
-   - IT
+   * Sales Director
+   * Marketing Team
+   * Customer Service Team
+   * Data and Analytics Team
+   * IT
    
  **4. End result**  :-
 An automated dashboard providing quick and latest sights in order to support Data driven decision making.
@@ -123,7 +123,7 @@ Shows visualizations from Sales insights :
    
 ![Key Insights](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Key%20Analysis%20Dashboard.png)
 
-   <p align="center">Profit Analysis Dashboard</strong></p>
+   <p align="center">**Profit Analysis Dashboard**</strong></p>
 
 ![Profit Analysis](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Profit%20Analysis.png)
 
