@@ -21,11 +21,11 @@ The problem was that all thses thing happening is verbal and these was mo proof 
     * End result - (What do you want to achieve)
     * Success Criteria - (Cost optimization and time save)
   
-### AIMS Grid - 
-### 1.  Purpose  :- 
+- **AIMS Grid** - 
+  **1.  Purpose**  :- 
 To unlock sales insights that are not visible before for the sales them for decision support and automate them to reduced manual time spent in data gathering.
 
-### 2.  Stakeholders :- 
+ **2.  Stakeholders** :- 
 
    - Sales Director
    - Marketing Team
@@ -33,10 +33,10 @@ To unlock sales insights that are not visible before for the sales them for deci
    - Data and Analytics Team
    - IT
    
-### 4. End result  :-
+ **4. End result**  :-
 An automated dashboard providing quick and latest sights in order to support Data driven decision making.
 
-### 5.  Success Criteria :-
+ **5.  Success Criteria** :-
 
    - Dahboard uncovering sales order insights with latest data available
    - Sales team able to take better decisions and prove 10% cost saving of total spend.
