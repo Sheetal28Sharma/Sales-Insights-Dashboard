@@ -125,7 +125,7 @@ Shows visualizations from Sales insights :
 
 ![Profit Analysis](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Profit%20Analysis.png)
 
-   <h2 align="center">Performance insight Dashboard</strong<h2>
+   <h2 align="center">Performance insight Dashboard<h2>
 
 ![image](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Performance%20Insight%20Dashboard.png)
 
