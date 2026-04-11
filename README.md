@@ -119,15 +119,15 @@ Shows visualizations from Sales insights :
 
    <h2 align="center">Key Insight Dashboard<h2>
    
-![Key Insights](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Key%20Analysis%20Dashboard.png)
+![Key Insights Dashboard](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Snapshot%20of%20Key%20Analysis%20Dashboard%20.png)
 
    <h2 align="center">Profit Analysis Dashboard<h2>
 
-![Profit Analysis](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Profit%20Analysis.png)
+![Profit Analysis Dashboard](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Snapshot%20of%20Profit%20Analysis%20Dashboard.png)
 
    <h2 align="center">Performance insight Dashboard<h2>
 
-![image](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Performance%20Insight%20Dashboard.png)
+![Performance insigth Dashboard](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Snapshot%20of%20Performance%20Insight%20Dashboard.png)
 
 ## Tools, Software and Libraries :
 
@@ -138,4 +138,6 @@ Shows visualizations from Sales insights :
 3.Power Query Editor
 
 3.DAX Language
+
+Live Dashboard ![here](https://app.powerbi.com/view?r=eyJrIjoiM2E0NmNmMjAtNjg0Ny00NThlLWI5OWQtODVlMDBkZDdmM2U1IiwidCI6ImU2YTg3NzEzLTIzYjAtNDEyYi1hMTA1LTllNzU2NTM2NWI3YSJ9)
 
