@@ -139,5 +139,7 @@ Shows visualizations from Sales insights :
 
 3.DAX Language
 
- ![Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2E0NmNmMjAtNjg0Ny00NThlLWI5OWQtODVlMDBkZDdmM2U1IiwidCI6ImU2YTg3NzEzLTIzYjAtNDEyYi1hMTA1LTllNzU2NTM2NWI3YSJ9)
+ ## Live Dashboard
+Explore the live dashboard [live](https://app.powerbi.com/view?r=eyJrIjoiM2E0NmNmMjAtNjg0Ny00NThlLWI5OWQtODVlMDBkZDdmM2U1IiwidCI6ImU2YTg3NzEzLTIzYjAtNDEyYi1hMTA1LTllNzU2NTM2NWI3YSJ9)
+
 
