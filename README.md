@@ -119,7 +119,7 @@ Shows visualizations from Sales insights :
 
    <h2 align="center">Key Insight Dashboard<h2>
    
-![Key Insights Dashboard](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Snapshot%20of%20Key%20Analysis%20Dashboard%20.png)
+![Key Insights Dashboard](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard/blob/main/Snapshot%20of%20%20Key%20Insight%20Dashboard.png)
 
    <h2 align="center">Profit Analysis Dashboard<h2>
 
